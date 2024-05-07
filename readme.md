@@ -55,21 +55,21 @@ npm run dev
 
 1. Adding a Habit:
 
-- Click on the "Add a habit" button.
-- Enter the name of the habit and submit the form.
+   - Click on the "Add a habit" button.
+   - Enter the name of the habit and submit the form.
 
 2. Deleting a Habit:
 
-- Click on the delete button next to the habit you want to delete.
+   - Click on the delete button next to the habit you want to delete.
 
 3. Updating Habit Status:
 
-- In the habits view, click on the "Done", "Not Done", or "None" button next to the habit.
-- In the calendar view, click on any date to open the update modal, then select the status.
+   - In the habits view, click on the "Done", "Not Done", or "None" button next to the habit.
+   - In the calendar view, click on any date to open the update modal, then select the status.
 
 4. Viewing Habits:
 
-- Click on the "Habits View" or "Calendar View" link in the header to switch between views.
+   - Click on the "Habits View" or "Calendar View" link in the header to switch between views.
 
 ## Credits
 
